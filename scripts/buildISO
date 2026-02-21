@@ -1,4 +1,4 @@
 xorriso -as mkisofs -o ../out/linuxiso.iso \
   -b syslinux/isolinux.bin -c syslinux/boot.cat \
   -no-emul-boot -boot-load-size 4 -boot-info-table \
-  bzImageFiles/
+  ../bzImageFiles/
