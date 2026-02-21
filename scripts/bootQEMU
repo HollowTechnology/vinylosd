@@ -1,1 +1,1 @@
-qemu-system-x86_64 --cdrom out/linuxiso.iso -m 512M
+qemu-system-x86_64 --cdrom ../out/linuxiso.iso -m 512M
